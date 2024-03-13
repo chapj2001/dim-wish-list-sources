@@ -1,0 +1,221 @@
+title:fanbyte
+description:https://www.fanbyte.com/destiny-2/guides
+
+// Taraxippos - Fanbyte's PVE/PVP God Keep Away Precision (god-pve,pve,god-pvp,pvp)
+//notes: #god #pve #pvp #mid-range #precision MW:Stability or Range
+
+Keep Away moving to the third column this year opened up a lot of new possibilities and is in my opinion the most appealing choice in its column by quite a long distance. The addition of Precision Instrument to the fourth column is likewise a pleasant surprise and the combination of these two perks can honestly easily pull double duty for use in both PVE and PVP.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve,god-pvp,pvp
+dimwishlist:item=3007479950&perks=1482024992,106909392,3619207468,555281244
+dimwishlist:item=3007479950&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,106909392,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,3230963543,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,106909392,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,3230963543,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,3142289711,3619207468,555281244
+
+
+// Taraxippos - Fanbyte's PVE God Gutshot Flinch (god-pve,pve)
+//notes: #god #pve #gutshot #explosions #flinch #mid-range MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,1365187766,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3230963543,1365187766,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,1365187766,3038247973
+dimwishlist:item=3007479950&perks=4090651448,106909392,1365187766,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3230963543,1365187766,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,1365187766,3038247973
+dimwishlist:item=3007479950&perks=1840239774,106909392,1365187766,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3230963543,1365187766,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,1365187766,3038247973
+
+
+// Taraxippos - Fanbyte's PVE God Precision Auto-Reload (god-pve,pve)
+//notes: #god #pve #precision #ammo #auto-reload #mid-range MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,1354429876,555281244
+dimwishlist:item=3007479950&perks=1482024992,3230963543,1354429876,555281244
+dimwishlist:item=3007479950&perks=1482024992,3142289711,1354429876,555281244
+dimwishlist:item=3007479950&perks=4090651448,106909392,1354429876,555281244
+dimwishlist:item=3007479950&perks=4090651448,3230963543,1354429876,555281244
+dimwishlist:item=3007479950&perks=4090651448,3142289711,1354429876,555281244
+dimwishlist:item=3007479950&perks=1840239774,106909392,1354429876,555281244
+dimwishlist:item=3007479950&perks=1840239774,3230963543,1354429876,555281244
+dimwishlist:item=3007479950&perks=1840239774,3142289711,1354429876,555281244
+
+
+// Taraxippos - Fanbyte's PVE God Precision Auto-Reload Flinch (god-pve,pve)
+//notes: #god #pve #precision #ammo #auto-reload #explosions #mid-range MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,1354429876,3038247973
+dimwishlist:item=3007479950&perks=4090651448,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1840239774,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,1354429876,3038247973
+
+
+// Taraxippos - Fanbyte's PVE God Precision Auto-Reload Threadlings Strand-Build (god-pve,pve)
+//notes: #god #pve #precision #ammo #auto-reload #strand-build #threadlings #mid-range MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,1354429876,3038247973
+dimwishlist:item=3007479950&perks=4090651448,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1840239774,106909392,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3230963543,1354429876,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,1354429876,3038247973
+
+
+// Taraxippos - Fanbyte's PVE God Keep-Away Precision (god-pve,pve)
+//notes: #god #pve #mid-range #precision MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,3619207468,555281244
+dimwishlist:item=3007479950&perks=1482024992,3230963543,3619207468,555281244
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,106909392,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,3230963543,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,106909392,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,3230963543,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,3142289711,3619207468,555281244
+
+
+// Taraxippos - Fanbyte's PVE God Keep-Away Flinch (god-pve,pve)
+//notes: #god #pve #mid-range #explosions #flinch MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3230963543,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,3038247973
+dimwishlist:item=3007479950&perks=4090651448,106909392,3619207468,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3230963543,3619207468,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1840239774,106909392,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3230963543,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,3619207468,3038247973
+
+
+// Taraxippos - Fanbyte's PVE God Keep-Away Threadlings Strand-Build (god-pve,pve)
+//notes: #god #pve #mid-range #strand-build #threadlings MW:Stability or Range
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pve,pve
+dimwishlist:item=3007479950&perks=1482024992,106909392,1354429876,831391274
+dimwishlist:item=3007479950&perks=1482024992,3230963543,1354429876,831391274
+dimwishlist:item=3007479950&perks=1482024992,3142289711,1354429876,831391274
+dimwishlist:item=3007479950&perks=4090651448,106909392,1354429876,831391274
+dimwishlist:item=3007479950&perks=4090651448,3230963543,1354429876,831391274
+dimwishlist:item=3007479950&perks=4090651448,3142289711,1354429876,831391274
+dimwishlist:item=3007479950&perks=1840239774,106909392,1354429876,831391274
+dimwishlist:item=3007479950&perks=1840239774,3230963543,1354429876,831391274
+dimwishlist:item=3007479950&perks=1840239774,3142289711,1354429876,831391274
+
+
+// Taraxippos - Fanbyte's PVP God Keep-Away Precision (god-pvp,pvp)
+//notes: #pvp #god #mid-range #precision MW:Stability
+
+Keep Away with Precision Instrument is going to be an excellent choice.
+
+Scouts really don’t need range in most situations for PVP so I generally recommend opting for stability instead — particularly so with the faster-firing archetypes like Lightweights and Rapid-Fires.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pvp,pvp
+dimwishlist:item=3007479950&perks=1840239774,3177308360,3619207468,555281244
+dimwishlist:item=3007479950&perks=1840239774,3142289711,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,3177308360,3619207468,555281244
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,555281244
+dimwishlist:item=3007479950&perks=1482024992,3177308360,3619207468,555281244
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,555281244
+
+
+// Taraxippos - Fanbyte's PVP God Keep-Away Flinch Duel (god-pvp,pvp)
+//notes: #pvp #duel #god #mid-range #explosions #flinch MW:Stability
+
+Explosive Payload in particular has been a staple for Lightweight Scouts for quite some time and that’s because it’s really good.
+
+Scouts really don’t need range in most situations for PVP so I generally recommend opting for stability instead — particularly so with the faster-firing archetypes like Lightweights and Rapid-Fires.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pvp,pvp
+dimwishlist:item=3007479950&perks=1840239774,3177308360,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,3619207468,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3177308360,3619207468,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3177308360,3619207468,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,3038247973
+
+
+// Taraxippos - Fanbyte's PVP God Keep-Away Blint (god-pvp,pvp)
+//notes: #pvp #god #mid-range #blint #rate-of-fire MW:Stability
+
+Increase rate-of-fire after blinting to this weapon from another weapon's final blows or sustained precision hits.
+
+Scouts really don’t need range in most situations for PVP so I generally recommend opting for stability instead — particularly so with the faster-firing archetypes like Lightweights and Rapid-Fires.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pvp,pvp
+dimwishlist:item=3007479950&perks=1840239774,3177308360,3619207468,3751912585
+dimwishlist:item=3007479950&perks=1840239774,3142289711,3619207468,3751912585
+dimwishlist:item=3007479950&perks=4090651448,3177308360,3619207468,3751912585
+dimwishlist:item=3007479950&perks=4090651448,3142289711,3619207468,3751912585
+dimwishlist:item=3007479950&perks=1482024992,3177308360,3619207468,3751912585
+dimwishlist:item=3007479950&perks=1482024992,3142289711,3619207468,3751912585
+
+
+// Taraxippos - Fanbyte's PVP God Zen Blint (god-pvp,pvp)
+//notes: #pvp #god #anti-flinch #blint #rate-of-fire MW:Stability
+
+Zen Moment combined with Cascade Point for some high-RPM weapon-swapping action: increase rate-of-fire after blinting to this weapon from another weapon's final blows or sustained precision hits.
+
+Scouts really don’t need range in most situations for PVP so I generally recommend opting for stability instead — particularly so with the faster-firing archetypes like Lightweights and Rapid-Fires.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pvp,pvp
+dimwishlist:item=3007479950&perks=1840239774,3177308360,2387244414,3751912585
+dimwishlist:item=3007479950&perks=1840239774,3142289711,2387244414,3751912585
+dimwishlist:item=3007479950&perks=4090651448,3177308360,2387244414,3751912585
+dimwishlist:item=3007479950&perks=4090651448,3142289711,2387244414,3751912585
+dimwishlist:item=3007479950&perks=1482024992,3177308360,2387244414,3751912585
+dimwishlist:item=3007479950&perks=1482024992,3142289711,2387244414,3751912585
+
+
+// Taraxippos - Fanbyte's PVP God Zen Anti-Flinch + Flinch Duel (god-pvp,pvp)
+//notes: #pvp #duel #god #anti-flinch #explosions #flinch MW:Stability
+
+Explosive Payload in particular has been a staple for Lightweight Scouts for quite some time and that’s because it’s really good.
+
+Scouts really don’t need range in most situations for PVP so I generally recommend opting for stability instead — particularly so with the faster-firing archetypes like Lightweights and Rapid-Fires.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pvp,pvp
+dimwishlist:item=3007479950&perks=1840239774,3177308360,2387244414,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,2387244414,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3177308360,2387244414,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,2387244414,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3177308360,2387244414,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,2387244414,3038247973
+
+
+// Taraxippos - Fanbyte's PVP God Zen ADS Flinch Duel (god-pvp,pvp)
+//notes: #pvp #duel #god #ads #explosions #flinch MW:Stability
+
+Explosive Payload in particular has been a staple for Lightweight Scouts for quite some time and that’s because it’s really good.
+
+Scouts really don’t need range in most situations for PVP so I generally recommend opting for stability instead — particularly so with the faster-firing archetypes like Lightweights and Rapid-Fires.
+
+https://www.fanbyte.com/destiny-2/guides/taraxippos-god-roll-2024-perk-pool tags:god-pvp,pvp
+dimwishlist:item=3007479950&perks=1840239774,3177308360,588594999,3038247973
+dimwishlist:item=3007479950&perks=1840239774,3142289711,588594999,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3177308360,588594999,3038247973
+dimwishlist:item=3007479950&perks=4090651448,3142289711,588594999,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3177308360,588594999,3038247973
+dimwishlist:item=3007479950&perks=1482024992,3142289711,588594999,3038247973
+
+
